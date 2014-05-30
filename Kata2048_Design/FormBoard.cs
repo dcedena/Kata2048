@@ -58,22 +58,26 @@ namespace Kata2048_Design
 
         private void pbTop_Click(object sender, EventArgs e)
         {
-            movement(GameBoard.MovementType.TOP);
+            if(board != null)
+                movement(GameBoard.MovementType.TOP);
         }
 
         private void pbRight_Click(object sender, EventArgs e)
         {
-            movement(GameBoard.MovementType.RIGHT);
+            if(board != null)
+                movement(GameBoard.MovementType.RIGHT);
         }
 
         private void pbBottom_Click(object sender, EventArgs e)
         {
-            movement(GameBoard.MovementType.BOTTOM);
+            if(board != null)
+                movement(GameBoard.MovementType.BOTTOM);
         }
 
         private void pbLeft_Click(object sender, EventArgs e)
         {
-            movement(GameBoard.MovementType.LEFT);
+            if(board != null)
+                movement(GameBoard.MovementType.LEFT);
         }
 
         private void movement(GameBoard.MovementType movement)

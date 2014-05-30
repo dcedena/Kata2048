@@ -1,0 +1,11 @@
+C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\Kata2048\Kata2048_Design\bin\Debug\Kata2048_Design.exe
+C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\Kata2048\Kata2048_Design\bin\Debug\Kata2048_Design.pdb
+C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\Kata2048\Kata2048_Design\bin\Debug\Kata2048.dll
+C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\Kata2048\Kata2048_Design\bin\Debug\Kata2048.pdb
+C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\Kata2048\Kata2048_Design\obj\x86\Debug\Kata2048_Design.csprojResolveAssemblyReference.cache
+C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\Kata2048\Kata2048_Design\obj\x86\Debug\Kata2048_Design.FormBoard.resources
+C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\Kata2048\Kata2048_Design\obj\x86\Debug\Kata2048_Design.Properties.Resources.resources
+C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\Kata2048\Kata2048_Design\obj\x86\Debug\Kata2048_Design.ucCell.resources
+C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\Kata2048\Kata2048_Design\obj\x86\Debug\Kata2048_Design.csproj.GenerateResource.Cache
+C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\Kata2048\Kata2048_Design\obj\x86\Debug\Kata2048_Design.exe
+C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\Kata2048\Kata2048_Design\obj\x86\Debug\Kata2048_Design.pdb
